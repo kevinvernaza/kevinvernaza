@@ -17,3 +17,5 @@ Rredes,  telecomunicaciones,  infraestructura tecnológica y  desarrollo de soft
 ### GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kevinvernaza&theme=dark)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?kevinvernaza=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
