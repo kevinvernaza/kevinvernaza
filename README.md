@@ -12,3 +12,8 @@ Rredes,  telecomunicaciones,  infraestructura tecnológica y  desarrollo de soft
 - 🔧 Infraestructura y administración de servicios de red.
 
 ###  Universidad del Cauca
+
+
+### GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kevinvernaza&theme=dark)](https://git.io/streak-stats)
