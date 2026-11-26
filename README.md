@@ -2,20 +2,8 @@
 
 Estudiante de **Ingeniería Electrónica y de Telecomunicaciones** en la Universidad del Cauca, con énfasis en **Servicios Telemáticos**.
 
-Rredes,  telecomunicaciones,  infraestructura tecnológica y  desarrollo de software.
-
-###  Tecnologías e intereses
-- 🌐 Redes y protocolos TCP/IP.
-- 🖥️ Linux, Docker y virtualización.
-- 📡 Redes 4G/5G y servicios telemáticos.
-- 🐍 Python, C++ y desarrollo web.
-- 🔧 Infraestructura y administración de servicios de red.
-
-###  Universidad del Cauca
-
-
 ### GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kevinvernaza&theme=dark)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?kevinvernaza=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=kevinvernaza)](https://github.com/stats-organization/github-stats-extended)
